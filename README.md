@@ -3,17 +3,17 @@ Ever since I picked up computer vision, all I ever wanted to do in my daily rout
 
 # Getting Started
 I recommend reading the most popular neural network architectures to gain an understanding of it's impact in AI.
-[Alex Net] (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-[ZF Net] (https://arxiv.org/pdf/1311.2901v3.pdf)
-[VGG16] (https://arxiv.org/abs/1409.1556)
-[GoogleLetNet] (https://arxiv.org/abs/1409.4842)
-[Microsoft ResNet] (https://arxiv.org/pdf/1512.03385v1.pdf)
-[R-CNN] (https://arxiv.org/pdf/1311.2524v5.pdf)
-[Fast R-CNN] (https://arxiv.org/pdf/1504.08083.pdf)
-[Faster R-CNN] (https://arxiv.org/pdf/1506.01497v3.pdf)
-[Generative Adversial Networks] (https://arxiv.org/pdf/1406.2661v1.pdf)
-[Generating Image Description] (https://arxiv.org/pdf/1412.2306v2.pdf)
-[Spatial Transformer Networks] (https://arxiv.org/pdf/1506.02025.pdf)
+1 [Alex Net] (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+1 [ZF Net] (https://arxiv.org/pdf/1311.2901v3.pdf)
+1 [VGG16] (https://arxiv.org/abs/1409.1556)
+1 [GoogleLetNet] (https://arxiv.org/abs/1409.4842)
+1 [Microsoft ResNet] (https://arxiv.org/pdf/1512.03385v1.pdf)
+1 [R-CNN] (https://arxiv.org/pdf/1311.2524v5.pdf)
+1 [Fast R-CNN] (https://arxiv.org/pdf/1504.08083.pdf)
+1 [Faster R-CNN] (https://arxiv.org/pdf/1506.01497v3.pdf)
+1 [Generative Adversial Networks] (https://arxiv.org/pdf/1406.2661v1.pdf)
+1 [Generating Image Description] (https://arxiv.org/pdf/1412.2306v2.pdf)
+1 [Spatial Transformer Networks] (https://arxiv.org/pdf/1506.02025.pdf)
 
 
 
