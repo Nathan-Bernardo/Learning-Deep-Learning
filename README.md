@@ -14,6 +14,7 @@ I recommend reading the most popular neural network architectures to gain an und
 * Generative Adversial Networks (https://arxiv.org/pdf/1406.2661v1.pdf) <br>
 * Generating Image Description (https://arxiv.org/pdf/1412.2306v2.pdf) <br>
 * Spatial Transformer Networks (https://arxiv.org/pdf/1506.02025.pdf) <br>
+* [How Do Neural Networks See Depth in Single Images?](http://openaccess.thecvf.com/content_ICCV_2019/papers/van_Dijk_How_Do_Neural_Networks_See_Depth_in_Single_Images_ICCV_2019_paper.pdf)
 
 
 
