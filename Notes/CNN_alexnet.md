@@ -1,4 +1,5 @@
 # ImageNet Classification with Deep Convolutional Neural Networks
+*February 2020*
 
 **Overal Impression** <br>
 Due to the large datasets and existence of GPUS, object recognition had a major improvement in performance when combined with convolutional neural networks (CNN).  Before the large datasets became available to researchers, simple recognition was still achievable with smaller datasets, but the lack of variability introduce inaccuracies in a realist setting.
