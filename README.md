@@ -3,7 +3,7 @@ Ever since I picked up computer vision, all I ever wanted to do in my daily rout
 
 # Getting Started
 I recommend reading the most popular neural network architectures to gain an understanding of it's impact in AI. <br>
-* [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)  <br>
+* [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_alexnet.md) <br>
 * [ZF Net](https://arxiv.org/pdf/1311.2901v3.pdf) <br>
 * [VGG16](https://arxiv.org/abs/1409.1556) <br>
 * [GoogleLetNet](https://arxiv.org/abs/1409.4842) <br>
