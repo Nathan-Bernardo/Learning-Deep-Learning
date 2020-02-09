@@ -24,6 +24,7 @@ Fei-Fei Li address the historical problems of object recognition and how their l
 * [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 * [Stochastic Gradient Descent](https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/)
 * [Dropout](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 * [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7)
 * [Difference between Local Response Normalization and Batch Normalization](https://towardsdatascience.com/difference-between-local-response-normalization-and-batch-normalization-272308c034ac)
 
