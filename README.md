@@ -16,6 +16,10 @@ I recommend reading the most popular neural network architectures to gain an und
 * [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf) <br>
 * [How Do Neural Networks See Depth in Single Images?](http://openaccess.thecvf.com/content_ICCV_2019/papers/van_Dijk_How_Do_Neural_Networks_See_Depth_in_Single_Images_ICCV_2019_paper.pdf)
 
+## Methods
+I believe that people who are just getting started with deep learning should understand the essential techniques in manipulating data for optimal performance.
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) 
+
 # Paper Notes
 ## 2020-02
 
