@@ -9,6 +9,7 @@ The motivation of the Inception architecture is to prevent the large set of para
 * 1x1 convolution layers are used for dimensionality reduction before being outputed to the expensive 3x3 and 5x5 convolutions, and are equipped with rectified linear activation (ReLU).
 * Inception achieves a top-5 error rate of **6.67**% for classification.
 * 22 layers deep including ones with parameters (27 with max poolin layers).
+
 **Technical Details** <br>
 * **Training Methodology**
   * Asynchronous stochastic gradient descent with 0.9 momentum.
