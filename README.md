@@ -25,7 +25,7 @@ I believe that people who are just getting started with deep learning should und
 
 # Paper Notes
 ## 2020-02
-
+* [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 
 
 
