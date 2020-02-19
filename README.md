@@ -25,8 +25,20 @@ I believe that people who are just getting started with deep learning should und
 
 # Paper Notes
 ## 2020-02
+List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+* [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734)
+* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211)
+* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+* [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)
+* [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
+* [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915)
+* [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
+* [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://paperswithcode.com/paper/encoder-decoder-with-atrous-separable)
+* [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://paperswithcode.com/paper/fastfcn-rethinking-dilated-convolution-in-the)
+* [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://paperswithcode.com/paper/improving-semantic-segmentation-via-video)
+* [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
 
 
 
