@@ -26,6 +26,7 @@ I believe that people who are just getting started with deep learning should und
 # Paper Notes
 ## 2020-02
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
 
 
