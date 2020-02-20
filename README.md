@@ -11,7 +11,7 @@ I recommend reading the most popular neural network architectures to gain an und
 * [Inception-v3](https://arxiv.org/abs/1512.00567) <br>
 * [Inception-ResNet](https://arxiv.org/abs/1602.07261) <br>
 * [Microsoft ResNet](https://arxiv.org/pdf/1512.03385v1.pdf) <br>
-* [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf) <br>
+* [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf) [notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/R_CNN.md)<br>
 * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) <br>
 * [Faster R-CNN](https://arxiv.org/pdf/1506.01497v3.pdf) <br>
 * [Xception](https://arxiv.org/pdf/1610.02357.pdf) <br>
