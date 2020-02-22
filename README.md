@@ -3,15 +3,15 @@ Ever since I picked up computer vision, all I ever wanted to do in my daily rout
 
 # Getting Started
 I recommend reading the most popular neural network architectures to gain an understanding of it's impact in AI. <br>
-* [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[notes]](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_alexnet.md) <br>
-* [ZF Net](https://arxiv.org/pdf/1311.2901v3.pdf) [[notes]](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_znet.md) <br>
-* [VGG16](https://arxiv.org/abs/1409.1556) [[notes]](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_VGG.md) <br>
-* [GoogleLetNet](https://arxiv.org/abs/1409.4842) [[notes]](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_googleLeNet.md) <br>
+* [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_alexnet.md)] <br>
+* [ZF Net](https://arxiv.org/pdf/1311.2901v3.pdf) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_znet.md)] <br>
+* [VGG16](https://arxiv.org/abs/1409.1556) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_VGG.md)] <br>
+* [GoogleLetNet](https://arxiv.org/abs/1409.4842) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_googleLeNet.md)] <br>
 * [Inception-v2](https://arxiv.org/abs/1502.03167) <br>
 * [Inception-v3](https://arxiv.org/abs/1512.00567) <br>
 * [Inception-ResNet](https://arxiv.org/abs/1602.07261) <br>
 * [Microsoft ResNet](https://arxiv.org/pdf/1512.03385v1.pdf) <br>
-* [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf) [[notes]](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/R_CNN.md)<br>
+* [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/R_CNN.md)] <br>
 * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) <br>
 * [Faster R-CNN](https://arxiv.org/pdf/1506.01497v3.pdf) <br>
 * [Xception](https://arxiv.org/pdf/1610.02357.pdf) <br>
