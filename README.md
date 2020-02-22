@@ -31,6 +31,7 @@ List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 * [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 * [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
+* [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734)
 * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211)
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
