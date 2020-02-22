@@ -12,6 +12,7 @@ Even though the YOLO algorithm struggles to localize objects correctly, it outpe
 * YOLO may have accuracy issues in localizing objects, but is fast for real-time systems.
 
 **Technical Details**
+* **Non-maximal suppression (NMS)** prevents large objects from being detected in the border of multiple cells.
 * In VOC 2007 dataset, YOLO scores **63.4**%  mean average precision (mAP).  Combined with Fast R-CNN, mAP increases to **75.0**%.
 * In VOC 2012 dataset, YOLO scores **57.9**% mAP, taking into account that YOLO struggles in detecting small objects.
 * Neural network architecture is inspired by GooglLetNet, but replaces inception modules with 1x1 reduction layers followed by 3x3 convolutional layers.
@@ -20,3 +21,4 @@ Even though the YOLO algorithm struggles to localize objects correctly, it outpe
 * [YOLO](https://pjreddie.com/darknet/yolo/)
 * [VOC 2007](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/)
 * [VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
+* [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
