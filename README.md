@@ -26,10 +26,9 @@ I believe that people who are just getting started with deep learning should und
 # Paper Notes
 ## 2020-02
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo.md)]
-
+* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
-* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 * [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
 * [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734)
