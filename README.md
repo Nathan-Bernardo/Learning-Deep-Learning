@@ -43,6 +43,8 @@ List of articles that I will read <br>
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://paperswithcode.com/paper/fastfcn-rethinking-dilated-convolution-in-the)
 * [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://paperswithcode.com/paper/improving-semantic-segmentation-via-video)
 * [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
+* [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800)
+* [When Does Labeling Smoothing Help?](https://arxiv.org/abs/1906.02629)
 
 
 
