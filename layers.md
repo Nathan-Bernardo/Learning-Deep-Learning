@@ -9,10 +9,10 @@
 
 * **Convolution** mixes the convolutional filter and the input matrix in order to train weights. 
 Without convolution, an ML algorithm would have to learn a a separate weight for every cell in a large tensor.
-This operation dramatically reduces memory needed to train the model because this algorithm will only find weights for every cell in the convolutional filter.
+This operation drastically reduces memory needed to train the model because this algorithm will only find weights for every cell in the convolutional filter.
 
 * **Convolutional filter** is a matrix have the same rank as the input matrix, but a smaller shape.
-This is one of the two actors in the convolutional operation; an elemenw-wise multiplication of the convoltutional
+This is one of the two actors in the convolutional operation; an element-wise multiplication of the convoltutional
 filter and a slice of the input matrix.
 
 
