@@ -45,7 +45,9 @@ List of articles that I will read <br>
 * [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
 * [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800)
 * [When Does Labeling Smoothing Help?](https://arxiv.org/abs/1906.02629)
-
+* [YOLACT: Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689)
+* [YOLACT++: Better Real-time Instance Segmentation](https://arxiv.org/abs/1912.06218)
+* [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 
 
 
