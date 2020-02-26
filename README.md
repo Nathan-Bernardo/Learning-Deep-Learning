@@ -26,7 +26,7 @@ I believe that people who are just getting started with deep learning should und
 # Paper Notes
 ## 2020-02
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo.md)]
-* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo9000.md]
+* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo9000.md)]
 
 List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
