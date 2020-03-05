@@ -29,6 +29,9 @@ I believe that people who are just getting started with deep learning should und
 * [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo9000.md)]
 * [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolov3.md)]
 
+## 2020-03
+
+
 List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 * [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
@@ -48,6 +51,7 @@ List of articles that I will read <br>
 * [YOLACT: Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689)
 * [YOLACT++: Better Real-time Instance Segmentation](https://arxiv.org/abs/1912.06218)
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+* [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142)
 
 
 
