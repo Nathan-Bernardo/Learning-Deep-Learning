@@ -52,6 +52,7 @@ List of articles that I will read <br>
 * [YOLACT++: Better Real-time Instance Segmentation](https://arxiv.org/abs/1912.06218)
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142)
+* [Dropout Sampling for Robust Object Detection in Open-Set Conditions](https://arxiv.org/abs/1710.06677)
 
 
 
