@@ -53,6 +53,7 @@ List of articles that I will read <br>
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142)
 * [Dropout Sampling for Robust Object Detection in Open-Set Conditions](https://arxiv.org/abs/1710.06677)
+* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696)
 
 
 
