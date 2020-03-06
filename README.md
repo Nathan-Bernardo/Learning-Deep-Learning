@@ -30,7 +30,7 @@ I believe that people who are just getting started with deep learning should und
 * [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolov3.md)]
 
 ## 2020-03
-
+* [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800)
 
 List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
@@ -46,7 +46,6 @@ List of articles that I will read <br>
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://paperswithcode.com/paper/fastfcn-rethinking-dilated-convolution-in-the)
 * [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://paperswithcode.com/paper/improving-semantic-segmentation-via-video)
 * [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)
-* [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800)
 * [When Does Labeling Smoothing Help?](https://arxiv.org/abs/1906.02629)
 * [YOLACT: Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689)
 * [YOLACT++: Better Real-time Instance Segmentation](https://arxiv.org/abs/1912.06218)
