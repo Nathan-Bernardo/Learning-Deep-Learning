@@ -23,6 +23,9 @@ I recommend reading the most popular neural network architectures to gain an und
 I believe that people who are just getting started with deep learning should understand the essential techniques in manipulating data for optimal performance.
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) 
 
+## Github Repos
+* [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
+
 # Paper Notes
 ## 2020-02
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo.md)]
