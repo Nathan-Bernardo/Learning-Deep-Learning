@@ -21,7 +21,7 @@ I recommend reading the most popular neural network architectures to gain an und
 
 ## Github Repos
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
-* [LRP (Localization Recall Precision) Performance Metric & Thresholder for Object Detection](https://github.com/cancam/LRP)
+* [LRP (Localization Recall Precision) Performance Metric & Thresholder for Object Detection](https://github.com/cancam/LRP) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
 
 # Paper Notes
 ## 2020-02
