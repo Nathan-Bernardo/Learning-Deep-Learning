@@ -25,6 +25,7 @@ I believe that people who are just getting started with deep learning should und
 
 ## Github Repos
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
+* [LRP (Localization Recall Precision) Performance Metric & Thresholder for Object Detection](https://github.com/cancam/LRP)
 
 # Paper Notes
 ## 2020-02
