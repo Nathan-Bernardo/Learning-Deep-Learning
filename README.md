@@ -31,7 +31,7 @@ I recommend reading the most popular neural network architectures to gain an und
 
 ## 2020-03
 * [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_probabilistic.md)]
-* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696)
+* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
 
 List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
