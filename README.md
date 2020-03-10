@@ -19,10 +19,6 @@ I recommend reading the most popular neural network architectures to gain an und
 * [Generating Image Description](https://arxiv.org/pdf/1412.2306v2.pdf) <br>
 * [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf) <br>
 
-## Methods
-I believe that people who are just getting started with deep learning should understand the essential techniques in manipulating data for optimal performance.
-* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) 
-
 ## Github Repos
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
 * [LRP (Localization Recall Precision) Performance Metric & Thresholder for Object Detection](https://github.com/cancam/LRP)
@@ -35,6 +31,7 @@ I believe that people who are just getting started with deep learning should und
 
 ## 2020-03
 * [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_probabilistic.md)]
+* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696)
 
 List of articles that I will read <br>
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
@@ -56,7 +53,6 @@ List of articles that I will read <br>
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142)
 * [Dropout Sampling for Robust Object Detection in Open-Set Conditions](https://arxiv.org/abs/1710.06677)
-* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696)
 * [MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction with Automation](https://arxiv.org/abs/1711.06976)
 
 
