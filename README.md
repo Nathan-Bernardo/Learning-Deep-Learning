@@ -57,6 +57,7 @@ List of articles that I will read <br>
 * [Multitarget tracking performance metric: deficiency aware subpattern assignment](https://ieeexplore.ieee.org/document/8306032)
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Predicting the Generalization Gap in Deep Networks with Margin Distributions](https://arxiv.org/abs/1810.00113)
+* [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 
 
 
