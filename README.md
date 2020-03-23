@@ -56,6 +56,7 @@ List of articles that I will read <br>
 * [MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction with Automation](https://arxiv.org/abs/1711.06976)
 * [Multitarget tracking performance metric: deficiency aware subpattern assignment](https://ieeexplore.ieee.org/document/8306032)
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+* [Predicting the Generalization Gap in Deep Networks with Margin Distributions](https://arxiv.org/abs/1810.00113)
 
 
 
