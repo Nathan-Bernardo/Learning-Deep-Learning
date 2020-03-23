@@ -55,6 +55,7 @@ List of articles that I will read <br>
 * [Dropout Sampling for Robust Object Detection in Open-Set Conditions](https://arxiv.org/abs/1710.06677)
 * [MIT Advanced Vehicle Technology Study: Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction with Automation](https://arxiv.org/abs/1711.06976)
 * [Multitarget tracking performance metric: deficiency aware subpattern assignment](https://ieeexplore.ieee.org/document/8306032)
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 
 
