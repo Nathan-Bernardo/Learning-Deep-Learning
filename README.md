@@ -22,7 +22,6 @@ I recommend reading the most popular neural network architectures to gain an und
 ## Github Repos
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
 * [LRP (Localization Recall Precision) Performance Metric & Thresholder for Object Detection](https://github.com/cancam/LRP) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
-* [MM Detection](https://github.com/open-mmlab/mmdetection)
 
 # Paper Notes
 ## 2020-02
@@ -64,7 +63,7 @@ List of articles that I will read <br>
 * [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287)
 * [Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving](https://arxiv.org/abs/1904.04620)
 * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
-* [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v1) [[code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
+* [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v1) [[code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 * [M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network](https://arxiv.org/abs/1811.04533) [[code](https://github.com/qijiezhao/M2Det)]
 * [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111) [[code](https://github.com/lukemelas/EfficientNet-PyTorch)]
 * [Reasoning-RCNN: Unifying Adaptive Global Reasoning Into Large-Scale Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.html) [[code](https://github.com/chanyn/Reasoning-RCNN)]
