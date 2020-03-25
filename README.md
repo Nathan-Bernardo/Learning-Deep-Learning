@@ -70,6 +70,7 @@ List of articles that I will read <br>
 * [Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423) [[code](https://github.com/facebookresearch/FixRes)]
 * [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355) [[code](https://github.com/neuroailab/LocalAggregation)]
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
+* [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)
 
 
 
