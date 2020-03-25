@@ -69,7 +69,7 @@ List of articles that I will read <br>
 * [Reasoning-RCNN: Unifying Adaptive Global Reasoning Into Large-Scale Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.html) [[code](https://github.com/chanyn/Reasoning-RCNN)]
 * [Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423) [[code](https://github.com/facebookresearch/FixRes)]
 * [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355) [[code](https://github.com/neuroailab/LocalAggregation)]
-
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 
 
 
