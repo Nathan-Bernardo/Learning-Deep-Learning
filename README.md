@@ -34,10 +34,12 @@ I recommend reading the most popular neural network architectures to gain an und
 * [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
 
 List of articles that I will read <br>
+* [Learning to Map Vehicles into Bird's Eye View](https://arxiv.org/abs/1706.08442)
+* [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](https://arxiv.org/abs/1710.06288)
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 * [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503) [[code](https://github.com/bharatsingh430/soft-nms)]
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734)
-* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211)
+* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211) [[dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php)]
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 * [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)
 * [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
