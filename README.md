@@ -33,6 +33,11 @@ I recommend reading the most popular neural network architectures to gain an und
 * [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_probabilistic.md)]
 * [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
 
+## 2020-04
+**Computer Vision and Pattern Recognition**
+* [Objects as Points](https://arxiv.org/abs/1904.07850)
+* [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)def
+
 List of articles that I will read <br>
 * [Learning to Map Vehicles into Bird's Eye View](https://arxiv.org/abs/1706.08442)
 * [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](https://arxiv.org/abs/1710.06288)
@@ -73,6 +78,5 @@ List of articles that I will read <br>
 * [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355) [[code](https://github.com/neuroailab/LocalAggregation)]
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 * [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)
-
 
 
