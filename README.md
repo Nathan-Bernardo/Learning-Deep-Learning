@@ -36,7 +36,7 @@ I recommend reading the most popular neural network architectures to gain an und
 ## 2020-04
 **Computer Vision and Pattern Recognition**
 * [Objects as Points](https://arxiv.org/abs/1904.07850)
-* [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)def
+* [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
 
 List of articles that I will read <br>
 * [Learning to Map Vehicles into Bird's Eye View](https://arxiv.org/abs/1706.08442)
