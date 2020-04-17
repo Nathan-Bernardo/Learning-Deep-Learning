@@ -42,7 +42,7 @@ List of articles that I will read <br>
 * [Learning to Map Vehicles into Bird's Eye View](https://arxiv.org/abs/1706.08442)
 * [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](https://arxiv.org/abs/1710.06288)
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
-* [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503) [[code](https://github.com/bharatsingh430/soft-nms)]
+* [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503) [[Github](https://github.com/bharatsingh430/soft-nms)]
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734)
 * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211) [[dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php)]
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
@@ -65,17 +65,17 @@ List of articles that I will read <br>
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Predicting the Generalization Gap in Deep Networks with Margin Distributions](https://arxiv.org/abs/1810.00113)
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
-* [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/abs/1906.07155) [[code](https://github.com/open-mmlab/mmdetection)]
+* [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/abs/1906.07155) [[Github](https://github.com/open-mmlab/mmdetection)]
 * [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/abs/1903.06530)
 * [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287)
 * [Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving](https://arxiv.org/abs/1904.04620)
 * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
-* [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v1) [[code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
+* [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946v1) [[Github](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 * [M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network](https://arxiv.org/abs/1811.04533) [[code](https://github.com/qijiezhao/M2Det)]
-* [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111) [[code](https://github.com/lukemelas/EfficientNet-PyTorch)]
-* [Reasoning-RCNN: Unifying Adaptive Global Reasoning Into Large-Scale Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.html) [[code](https://github.com/chanyn/Reasoning-RCNN)]
-* [Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423) [[code](https://github.com/facebookresearch/FixRes)]
-* [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355) [[code](https://github.com/neuroailab/LocalAggregation)]
+* [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111) [[Github](https://github.com/lukemelas/EfficientNet-PyTorch)]
+* [Reasoning-RCNN: Unifying Adaptive Global Reasoning Into Large-Scale Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.html) [[Github](https://github.com/chanyn/Reasoning-RCNN)]
+* [Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423) [[Github](https://github.com/facebookresearch/FixRes)]
+* [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355) [[Github](https://github.com/neuroailab/LocalAggregation)]
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 * [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832) [[Github](https://github.com/davidsandberg/facenet)]
