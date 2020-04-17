@@ -78,5 +78,6 @@ List of articles that I will read <br>
 * [Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355) [[code](https://github.com/neuroailab/LocalAggregation)]
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 * [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)
+* [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832) [[Github](https://github.com/davidsandberg/facenet)]
 
 
