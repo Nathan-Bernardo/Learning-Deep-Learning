@@ -6,11 +6,11 @@ When I began learning the theory and application of Deep Learning, I read the bo
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-The above two resources require you to have a basic understanding *Calculus* (derivatives specifically) and *Linear Algebra*. To get deep into the bones of Deep Learning, it is required that you strongly understand *Linear Algebra* (35%), *Probability and Statistics* (25%), *Multivariate Calculus* (15%), *Algorithms and Data Structures* (15%), and *Others* (10%).  Others refer to *Real and Complex Analysis*, *Fourier Transforms*, *Information Theory*, and other topics not covered in the top 4 topics. To get started, I recommend reading *Deep Learning* by Ian Goodfellow et al., founder of **Generative Adversial Networks**. He provides you all the math concepts and it's application to machine learning and deep learning all in one book. <br>  
+The above two resources require you to have a basic understanding *Calculus* (derivatives specifically) and *Linear Algebra*. To get deep into the bones of Deep Learning, it is required that you strongly understand *Linear Algebra* (35%), *Probability and Statistics* (25%), *Multivariate Calculus* (15%), *Algorithms and Data Structures* (15%), and *Others* (10%).  Others refer to *Real and Complex Analysis*, *Fourier Transforms*, *Information Theory*, and other topics not covered in the top 4 topics. To get started, I recommend reading *Deep Learning* by Ian Goodfellow et al., founder of **Generative Adversial Networks**. He provides you all the math concepts and it's application to machine learning and deep learning all in one book. I will also provide other sources, such as this minibook called *Mathematics for Machine Learning*. <br>  
 * [Deep Learning](https://www.deeplearningbook.org/) 
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-
-
+When you begin understanding the different Neural Networks (NN) and their application, you may need a deep understanding of the NN architecture and the math behind the process. In most resources, you'll be presented with popular Neural Network architectures, ranging from it's revolution to Deep Learning to contemporary Deep Learning. Below are the most popular NNs that are mentioned in most literature today, and I encourage you to read these papers: <br>
 * [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_alexnet.md)] <br>
 * [ZF Net](https://arxiv.org/pdf/1311.2901v3.pdf) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_znet.md)] <br>
 * [VGG16](https://arxiv.org/abs/1409.1556) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_VGG.md)] <br>
