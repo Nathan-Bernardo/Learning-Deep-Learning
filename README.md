@@ -13,11 +13,6 @@ The above two resources requires you to have a basic understanding ***Calculus**
 There are many resources in getting started with Machine Learning and Deep Learning. To explore more of the sources that availabe for you, check out Tensorflow. Tensorflow provides people a guide to how you can go from a beginner to expert in theory and in practice. <br>
 * [Tensorflow](https://www.tensorflow.org/resources/learn-ml/theoretical-and-advanced-machine-learning)
 
-## Environments to code in
-It is always nice to write your code using a notebook, IDE, or a text editor. (Most of the code you will be writing will be in Python). There are a couple notebooks that you can use to write your code: **Google Collab** or **Jupyter Notebooks**. Notebooks are create for organizing your code into blocks, fast prototyping, and reiteration of a specific block of code. Google Collab is a personal favorite because you can save your notebooks in your Google Drive, and you have free access to their power GPUs and TPUs. GPUs and TPUs drastically improves the training and test time, especially when working with images and CNNs. With Jupyter Notebooks, you get to work with more coding programs, but have no access to a GPU and TPU.  Though, I encourage you to explore both notebooks.
-* [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-* [Jupyter Notebooks](https://jupyter.org/)
-
 When you begin understanding the different Neural Networks (NN) and their application, you may need a deep understanding of the NN architecture and the math behind the process. In most resources, you'll be presented with popular Neural Network architectures, ranging from it's revolution to Deep Learning to contemporary Deep Learning. Below are the most popular NNs that are mentioned in most literature today, and I encourage you to read these papers: <br>
 * [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_alexnet.md)] <br>
 * [ZF Net](https://arxiv.org/pdf/1311.2901v3.pdf) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_znet.md)] <br>
@@ -34,6 +29,12 @@ When you begin understanding the different Neural Networks (NN) and their applic
 * [Generative Adversial Networks](https://arxiv.org/pdf/1406.2661v1.pdf) <br>
 * [Generating Image Description](https://arxiv.org/pdf/1412.2306v2.pdf) <br>
 * [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf) <br>
+
+## Environments to code in
+It is always nice to write your code using a notebook, IDE, or a text editor. (Most of the code you will be writing will be in Python). There are a couple notebooks that you can use to write your code: **Google Collab** or **Jupyter Notebooks**. Notebooks are create for organizing your code into blocks, fast prototyping, and reiteration of a specific block of code. Google Collab is a personal favorite because you can save your notebooks in your Google Drive, and you have free access to their power GPUs and TPUs. GPUs and TPUs drastically improves the training and test time, especially when working with images and CNNs. With Jupyter Notebooks, you get to work with more coding programs, but have no access to a GPU and TPU.  Though, I encourage you to explore both notebooks.
+* [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+* [Jupyter Notebooks](https://jupyter.org/)
+
 
 ## Github Repos
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
