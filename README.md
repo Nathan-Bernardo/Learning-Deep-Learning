@@ -31,9 +31,15 @@ When you begin understanding the different Neural Networks (NN) and their applic
 * [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf) <br>
 
 ## Environments to code in
-It is always nice to write your code using a notebook, IDE, or a text editor. (Most of the code you will be writing will be in Python). There are a couple notebooks that you can use to write your code: **Google Collab** or **Jupyter Notebooks**. Notebooks are create for organizing your code into blocks, fast prototyping, and reiteration of a specific block of code. Google Collab is a personal favorite because you can save your notebooks in your Google Drive, and you have free access to their power GPUs and TPUs. GPUs and TPUs drastically improves the training and test time, especially when working with images and CNNs. With Jupyter Notebooks, you get to work with more coding programs, but have no access to a GPU and TPU.  Though, I encourage you to explore both notebooks.
+It is always nice to write your code using a notebook, IDE, or a text editor. (Most of the code you will be writing will be in Python). There are a couple notebooks that you can use to write your code: **Google Collab** or **Jupyter Notebooks**. Notebooks are create for organizing your code into blocks, fast prototyping, and reiteration of a specific block of code. Google Collab is a personal favorite because you can save your notebooks in your Google Drive, and you have free access to their powerful GPUs and TPUs. GPUs and TPUs drastically improves the training and test time, especially when working with images and CNNs. With Jupyter Notebooks, you get to work with more coding programs, but have no access to a GPU and TPU.  Though, I encourage you to explore both notebooks.
 * [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 * [Jupyter Notebooks](https://jupyter.org/)
+
+Some of the IDEs that you can use for computer programming are **PyCharm** (developed my JetBrains), **Microsoft Visual Studio Code** (VS Code), or **Spyder**. PyCharm supports virtual environments, allowing you to install scientific packages for certain projects without having to interface with the main system.  My favorite feature of Pycharm is it's scientific tool, which allows you to easily install scientific packages with just a click. This feature is only allowed if you have the professional edition, and students have the opportunity to get a year long license.  On the other hand, VS 
+Code and Spyder are free IDEs, and you can make use of Anaconda to simplify package management and deployment. 
+* [Pychar](https://www.jetbrains.com/pycharm/)
+* [VS Code](https://code.visualstudio.com/)
+* [Spyder](https://www.spyder-ide.org/)
 
 
 ## Github Repos
