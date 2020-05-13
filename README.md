@@ -38,7 +38,7 @@ It is always nice to write your code using a notebook, IDE, or a text editor. (M
 
 Some of the IDEs that you can use for computer programming are **PyCharm** (developed my JetBrains), **Microsoft Visual Studio Code** (VS Code), or **Spyder**. PyCharm supports virtual environments, allowing you to install scientific packages for certain projects without having to interface with the main system.  My favorite feature of Pycharm is it's scientific tool, which allows you to easily install scientific packages with just a click. This feature is only allowed if you have the professional edition, and students have the opportunity to get a year long license.  On the other hand, VS 
 Code and Spyder are free IDEs, and you can make use of Anaconda to simplify package management and deployment. 
-* [Pychar](https://www.jetbrains.com/pycharm/)
+* [Pycharm](https://www.jetbrains.com/pycharm/)
 * [VS Code](https://code.visualstudio.com/)
 * [Spyder](https://www.spyder-ide.org/)
 
