@@ -10,8 +10,9 @@ The above two resources requires you to have a basic understanding ***Calculus**
 * [Deep Learning](https://www.deeplearningbook.org/) 
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-There are many resources in getting started with Machine Learning and Deep Learning. To explore more of the sources that availabe for you, check out Tensorflow. Tensorflow provides people a guide to how you can go from a beginner to expert in theory and in practice. <br>
+There are many resources in getting started with Machine Learning and Deep Learning. To explore more of the sources that availabe for you, check out Tensorflow. Tensorflow provides people a guide to how you can go from a beginner to expert in theory and in practice. There are other popular deep learning frameworks that are often used for Deep Learning, such as **Keras**, **Caffe**, and **PyTorch**. Tensorflow, Keras, and Pytorch have been the most popular frameworks used in building NNs. Tensorflow 2.0 actually integrated Keras into their APIs, making the user experience much simpler and easier for generating NNs.  Though, do explore all and see which framework floats your boat. On the other hand, Pytorch now integrates Caffe into their APIs. <br>
 * [Tensorflow](https://www.tensorflow.org/resources/learn-ml/theoretical-and-advanced-machine-learning)
+* [PyTorch](https://pytorch.org/)
 
 When you begin understanding the different Neural Networks (NN) and their application, you may need a deep understanding of the NN architecture and the math behind the process. In most resources, you'll be presented with popular Neural Network architectures, ranging from it's revolution to Deep Learning to contemporary Deep Learning. Below are the most popular NNs that are mentioned in most literature today, and I encourage you to read these papers: <br>
 * [Alex Net](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/CNN_alexnet.md)] <br>
