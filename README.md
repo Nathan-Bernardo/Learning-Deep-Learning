@@ -44,9 +44,8 @@ Code and Spyder are free IDEs, and you can make use of Anaconda to simplify pack
 
 
 ## Github Repos
-* [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
-* [LRP (Localization Recall Precision) Performance Metric & Thresholder for Object Detection](https://github.com/cancam/LRP) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
-* [Metrics for Object Detection](https://github.com/rafaelpadilla/Object-Detection-Metrics)
+* [Paper list of object detection](https://github.com/hoya012/deep_learning_object_detection)
+* [Metrics for object detection](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 
 # Paper Notes
 ## 2020-02
