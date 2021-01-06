@@ -62,6 +62,11 @@ Code and Spyder are free IDEs, and you can make use of Anaconda to simplify pack
 * [Objects as Points](https://arxiv.org/abs/1904.07850)
 * [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
 
+## 2021-01
+**Generative Adversial Networks**
+* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+
+
 List of articles that I will read <br>
 * [Learning to Map Vehicles into Bird's Eye View](https://arxiv.org/abs/1706.08442)
 * [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](https://arxiv.org/abs/1710.06288)
