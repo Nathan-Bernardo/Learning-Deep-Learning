@@ -1,6 +1,12 @@
 # About
 Ever since I picked up computer vision, all I ever wanted to do in my daily routine is code code and code.  I'm currently self-teaching myself Deep Learning and Machine Learning and I'm intrigued by the large potential it has in every occupation.  Inspired by [Adrian Coyler](https://blog.acolyer.org/about/) and [Patrick Lui](https://github.com/patrick-llgc/Learning-Deep-Learning), I brought myself to read papers to keep myself up to date on the development of AI.  And just like Coyler and Lui, I will summarize every paper I read so that not only I have an understanding of the paper, but so that you can understand the topic without in depth reading.  I would love to share my paper notes to those who are curious, but need an overview of the core concepts.  With all said, if you are a researcher, practioner, or undergrad student, I hope you can take something away from my exploration to AI.
 
+# Problems In AI
+While AI has been the prospect for developing better technology (e.g. self driving cars, customer service, financial analysis, robots, etc.), AI still faces many problems. For one, AI is very sensitive about any change in their weights, preventing them from learning new tasks. This leads AI to the what we call the catastrophic forgetting - the AI tends to forget all the tasks it previously learned when learning a new task. For second, AI is computationally expensive and unsustainable for the environment. For third, AI doesn't stop to think about solving the problems because it's only trying to learn from its input and output the best possible predictions. I recommend reading the articles below to understand the problems that AI face.
+* [THE TURBULENT PAST AND UNCERTAIN FUTURE OF ARTIFICIAL INTELLIGENCE](https://spectrum.ieee.org/history-of-ai)
+* [HOW DEEPMIND IS REINVENTING THE ROBOT](https://spectrum.ieee.org/how-deepmind-is-reinventing-the-robot)
+* [7 REVEALING WAYS AIS FAIL](https://spectrum.ieee.org/ai-failures)
+
 # Getting Started
 When I began learning the theory and application of Deep Learning, I read the book ***Deep Learning with Python*** by Francois Chollet, the creator of Keras. The book is great for getting started with programming using Tensorflow and Keras, but some concepts didn't seem intuitive (Neural Netowrks in general are just difficult to understand). To pair with the book, I took the the ***Deep Learning Specialization*** course by Andrew Ng, founder of deeplearning.ai. Andrew Ng does a great job in describing the theoretical concepts on hyperparameters, convolutional neural networks (CNN), optimization methods, backpropagation, and other concepts essential for understanding Neural Networks. I personally recommend checking these two out as a starting point: <br>
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
@@ -48,23 +54,28 @@ Code and Spyder are free IDEs, and you can make use of Anaconda to simplify pack
 * [Metrics for object detection](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 
 # Paper Notes
-## 2020-02
-* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo.md)]
-* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo9000.md)]
-* [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolov3.md)]
-
-## 2020-03
-* [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_probabilistic.md)]
-* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
+## 2021-10
+* [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/pdf/1906.02243.pdf%22%3EWachstum) `Sustainability`
+* [Green AI](https://arxiv.org/pdf/1907.10597.pdf) `Sustainability`
+## 2021-01
+**Generative Adversial Networks**
+* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
 
 ## 2020-04
 **Computer Vision and Pattern Recognition**
 * [Objects as Points](https://arxiv.org/abs/1904.07850)
 * [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
 
-## 2021-01
-**Generative Adversial Networks**
-* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+## 2020-03
+* [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/abs/1811.10800) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_probabilistic.md)]
+* [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](https://arxiv.org/abs/1807.01696) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_LRP.md)]
+
+## 2020-02
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo.md)]
+* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolo9000.md)]
+* [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) [[notes](https://github.com/Nathan-Bernardo/Learning-Deep-Learning/blob/master/Notes/od_yolov3.md)]
+
+
 
 
 List of articles that I will read <br>
